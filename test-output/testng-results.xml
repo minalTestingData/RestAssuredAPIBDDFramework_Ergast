@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-07T12:16:12 CDT" name="Default suite" finished-at="2021-09-07T12:16:18 CDT" duration-ms="6327">
+    <groups>
+    </groups>
+    <test started-at="2021-09-07T12:16:12 CDT" name="Default test" finished-at="2021-09-07T12:16:18 CDT" duration-ms="6327">
+      <class name="com.qa.test.rest.GetBDDCall">
+        <test-method signature="ergastCircuitForConstructorIDSize_2016()[pri:0, instance:com.qa.test.rest.GetBDDCall@776b83cc]" started-at="2021-09-07T12:16:12 CDT" name="ergastCircuitForConstructorIDSize_2016" finished-at="2021-09-07T12:16:18 CDT" duration-ms="6242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ergastCircuitForConstructorIDSize_2016 -->
+      </class> <!-- com.qa.test.rest.GetBDDCall -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
